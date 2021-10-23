@@ -77,7 +77,7 @@ body{
 .btn{
   /* margin: 30px 30px 0; */
   text-align: center;
-  margin: 140px auto 70px;
+  margin: 140px auto 100px;
   background-color: var(--nav);
   padding: 40px 0;
   border-radius: 60px;
